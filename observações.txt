@@ -1,0 +1,19 @@
+Objetivo: Categorizar municipios com algoritimo de agrupamento, considerando pelo menos 2 eixos que 
+possam demonstrar qualidade para os municipios,ate o momento utilizei como base as variaveis abaixo.
+Utilizo o algoritimo kmeans para o agrupamento, este escolhe centroides iniciais, atribui pontos 
+ao cluster mais próximo e ajusta os centroides iterativamente para minimizar a distância dentro dos clusters.
+Dessa maneira os dados sao bem agrupados e é possivel tirar uma media de cada cluster e centroide
+para assim classificar cada cluster de maneira descritiva
+
+
+IDEB 2023, peguei a media das redes municipais, estaduais e publicas
+População censo de 2022 do ibge 
+CadUnico 2023 visdata
+bpc 2023 visdata
+ivcad 2023 gov.br
+analfabetismo 2023 Sidra IBGE
+Bolsa familia(Auxilio brasil)2022 visdata
+
+ate o momento versão 0.8 temos essas classificações
+___________________________________________________
+
