@@ -17,3 +17,7 @@ Bolsa familia(Auxilio brasil)2022 visdata
 ate o momento versão 0.8 temos essas classificações
 ___________________________________________________
 
+Eixos da educação:
+IDEB
+Matricula de alunos no ensino medio (isso vai me retornar um entendimento de abandono escolar ou desistenci da perspectiva de estudo)
+
