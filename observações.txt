@@ -20,4 +20,6 @@ ___________________________________________________
 Eixos da educação:
 IDEB
 Matricula de alunos no ensino medio (isso vai me retornar um entendimento de abandono escolar ou desistenci da perspectiva de estudo)
+Despesas empenhadas siginificam as despesas que os municipios propoem,acho ser um bom indicador pois vemos as cidades que tao com menos investimentos ou as que tem mais invesitimentos e assim ver as decisões melhores tomadas ou não 
+
 
